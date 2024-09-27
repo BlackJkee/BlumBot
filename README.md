@@ -1,6 +1,8 @@
 [![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/blum/app?startapp=ref_QRPckJZKX9)
 
 #  AUTO FARM FOR BlumBot 🚀
+![start-blum](https://github.com/user-attachments/assets/00b0cb0d-f3e4-4e6d-9a60-845a18ca48d8)
+
 
 # 🔥🔥 PYTHON version must be 3.10 🔥🔥
 
