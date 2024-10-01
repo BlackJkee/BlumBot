@@ -311,7 +311,9 @@ class Tapper:
                 'What are Telegram Mini Apps?': 'CRYPTOBLUM',
                 'Say No to Rug Pull!': 'SUPERBLUM',
                 'Liquidity Pools Guide': 'BLUMERSSS',
-                'What Are AMMs?': 'CRYPTOSMART'
+                'What Are AMMs?': 'CRYPTOSMART',
+                '$2.5M+ DOGS Airdrop': 'HAPPYDOGS',
+                'Doxxing? What\'s that?': 'NODOXXING'
 
             }
 
