@@ -313,7 +313,8 @@ class Tapper:
                 'Liquidity Pools Guide': 'BLUMERSSS',
                 'What Are AMMs?': 'CRYPTOSMART',
                 '$2.5M+ DOGS Airdrop': 'HAPPYDOGS',
-                'Doxxing? What\'s that?': 'NODOXXING'
+                'Doxxing? What\'s that?': 'NODOXXING',
+                'Pre-Market Trading?': 'WOWBLUM'
 
             }
 
